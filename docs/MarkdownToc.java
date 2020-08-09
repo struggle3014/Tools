@@ -1,5 +1,3 @@
-package com.xinyan.bigdata.sunfish.demo;
-
 import org.apache.commons.lang.StringUtils;
 
 import java.io.*;
